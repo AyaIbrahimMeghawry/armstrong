@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1680432845 source:f:\c codes\nti\test_6\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1680429683 source:f:\c codes\nti\test_6\is_perfect.c
+	<stdio.h>
+	<stdlib.h>
+
