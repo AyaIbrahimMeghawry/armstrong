@@ -1,4 +1,4 @@
-/*
+
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -34,5 +34,3 @@ void Is_perfect(unsigned char Num)
     }
 
 }
-
-*/
